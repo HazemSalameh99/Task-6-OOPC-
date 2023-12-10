@@ -1,0 +1,16 @@
+E:\OrangeTasks\C#-Tasks\Task(7)_OOP\obj\Debug\net5.0\Task(7)_OOP.csproj.AssemblyReference.cache
+E:\OrangeTasks\C#-Tasks\Task(7)_OOP\obj\Debug\net5.0\Task(7)_OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\OrangeTasks\C#-Tasks\Task(7)_OOP\obj\Debug\net5.0\Task(7)_OOP.AssemblyInfoInputs.cache
+E:\OrangeTasks\C#-Tasks\Task(7)_OOP\obj\Debug\net5.0\Task(7)_OOP.AssemblyInfo.cs
+E:\OrangeTasks\C#-Tasks\Task(7)_OOP\obj\Debug\net5.0\Task(7)_OOP.csproj.CoreCompileInputs.cache
+E:\OrangeTasks\C#-Tasks\Task(7)_OOP\bin\Debug\net5.0\Task(7)_OOP.exe
+E:\OrangeTasks\C#-Tasks\Task(7)_OOP\bin\Debug\net5.0\Task(7)_OOP.deps.json
+E:\OrangeTasks\C#-Tasks\Task(7)_OOP\bin\Debug\net5.0\Task(7)_OOP.runtimeconfig.json
+E:\OrangeTasks\C#-Tasks\Task(7)_OOP\bin\Debug\net5.0\Task(7)_OOP.runtimeconfig.dev.json
+E:\OrangeTasks\C#-Tasks\Task(7)_OOP\bin\Debug\net5.0\Task(7)_OOP.dll
+E:\OrangeTasks\C#-Tasks\Task(7)_OOP\bin\Debug\net5.0\ref\Task(7)_OOP.dll
+E:\OrangeTasks\C#-Tasks\Task(7)_OOP\bin\Debug\net5.0\Task(7)_OOP.pdb
+E:\OrangeTasks\C#-Tasks\Task(7)_OOP\obj\Debug\net5.0\Task(7)_OOP.dll
+E:\OrangeTasks\C#-Tasks\Task(7)_OOP\obj\Debug\net5.0\ref\Task(7)_OOP.dll
+E:\OrangeTasks\C#-Tasks\Task(7)_OOP\obj\Debug\net5.0\Task(7)_OOP.pdb
+E:\OrangeTasks\C#-Tasks\Task(7)_OOP\obj\Debug\net5.0\Task(7)_OOP.genruntimeconfig.cache
